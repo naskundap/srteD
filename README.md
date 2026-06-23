@@ -1,2 +1,2 @@
 # srteD
-app yang dibuat karena perlu
+aplikasi sortir foto yang dibuat karena perlu
